@@ -1,3 +1,4 @@
+![minha foto](./IMG_4273.jpg)
 Olá! Meu nome é Ana Beatriz Guimarães e sou estudante de Análise e Desenvolvimento de Sistemas.
 
 Atualmente estou em início de carreira na área de tecnologia, buscando desenvolver meus conhecimentos em programação e adquirir experiência prática.
