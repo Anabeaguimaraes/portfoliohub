@@ -52,6 +52,7 @@ Estou focado em evoluir constantemente e adquirir experiência prática na área
 No momento, ainda não possuo recomendações formais, pois estou no início da minha trajetória profissional.
 
 ➕ Extras
+
 Em busca da primeira oportunidade na área de tecnologia
 Interesse em desenvolvimento de software
 Comprometido com aprendizado contínuo
