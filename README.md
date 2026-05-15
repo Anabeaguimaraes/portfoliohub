@@ -1,71 +1,69 @@
 <p align="center">
   <img src="IMG_4273.jpg" width="200">
 </p>  
-Olá! Meu nome é Ana Beatriz Guimarães e sou estudante de Análise e Desenvolvimento de Sistemas.  
-Atualmente estou em início de carreira na área de tecnologia, buscando desenvolver meus conhecimentos em programação e adquirir experiência prática.
+# Ana Beatriz Guimarães
 
-Tenho interesse em desenvolvimento de sistemas, lógica de programação e resolução de problemas. Estou sempre em busca de aprendizado e evolução na área.
+Meu nome é Ana Beatriz Guimarães, sou estudante de Análise e Desenvolvimento de Sistemas no UniCEUB.
 
-📧 Email: guimaraesanaa65@gmail.com
+Atualmente, busco oportunidades na área de tecnologia para desenvolver meus conhecimentos e adquirir experiência prática em programação e desenvolvimento de sistemas.
 
-🔗 LinkedIn:
+📧 Email: guimaraesanaa65@gmail.com  
 
-📄 Currículo
+🔗 LinkedIn: https://www.linkedin.com/in/ana-beatriz-alves-guimar%C3%A3es-19aba93b3/?skipRedirect=true
 
+---
 
-🎓 Formação Acadêmica
+# 📄 Currículo
 
+## 🎓 Formação Acadêmica
 
-Curso: Análise e Desenvolvimento de Sistemas
+- Curso: Análise e Desenvolvimento de Sistemas
+- Instituição: UniCEUB
+- Status: Em andamento
 
+---
 
-Instituição: UniCEUB
+## 💼 Experiência
 
+- Estudante com foco em desenvolvimento acadêmico
+- Em busca da primeira oportunidade na área de tecnologia
 
-Status: Em andamento
+---
 
+# 🧠 Habilidades e Competências
 
-💻 Habilidades Técnicas (nível básico)
+- Lógica de programação
+- Algoritmos
+- HTML básico
+- Estrutura de dados (em aprendizado)
+- Desenvolvimento web (iniciante)
+- Git e GitHub (iniciante)
 
+📂 Interesse em desenvolvimento de software e aprendizado contínuo.
 
-Lógica de programação
-Algoritmos
-HTML (básico)
-Git e GitHub (iniciante)
+---
 
+# 🌎 Idiomas
 
-🧠 Habilidades Pessoais
+- Português: Nativo
 
+---
 
-Facilidade de aprendizado
-Organização
-Responsabilidade
-Trabalho em equipe
+# 💻 Projetos
 
+## 📌 Sistema de Gerenciamento de Hotel
 
-🌎 Idiomas
-Português: Nativo
+Projeto acadêmico desenvolvido com foco em lógica de programação e organização de sistemas.
 
+- Modelagem de sistema de hotel
+- Organização de dados
+- Aplicação de lógica de programação
+- Estruturação de funcionalidades básicas
 
+🔗 Acessar projeto completo
 
-⚙️ Habilidades e Competências
+---
 
+# ⭐ Objetivo
 
-Atualmente estou desenvolvendo conhecimentos em:
-
-Programação
-Estrutura de dados
-Desenvolvimento web
-Versionamento com Git e GitHub
-
-Estou focado em evoluir constantemente e adquirir experiência prática na área.
-
-⭐ Recomendações
-
-No momento, ainda não possuo recomendações formais, pois estou no início da minha trajetória profissional.
-
-➕ Extras
-
-Em busca da primeira oportunidade na área de tecnologia
-Interesse em desenvolvimento de software
-Comprometido com aprendizado contínuo
+Busco uma oportunidade na área de tecnologia para desenvolver minhas habilidades práticas, adquirir experiência profissional e crescer continuamente na área de desenvolvimento de software.
